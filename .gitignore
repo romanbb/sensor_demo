@@ -1,0 +1,6 @@
+project.properties
+assets/*
+bin/*
+gen/*
+.classpath
+.project
